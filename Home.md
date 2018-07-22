@@ -16,6 +16,7 @@ I want to study Data Science Wiki입니다
     - 머신러닝 엔지니어
     - 데이터 사이언티스트
 - 꼭 공부해야 할 것들
+    - 질문하는 방법
     - Git
     - Linux
     - Python
