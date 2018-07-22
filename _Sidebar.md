@@ -13,11 +13,11 @@
     - [데이터 크롤링](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-List#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%81%AC%EB%A1%A4%EB%A7%81)
     - [Cloud Service](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-List#cloud-service)
     - [선형대수](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-List#%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98)
-- 포트폴리오
-    - Kaggle
-    - 공모전
-    - 블로그
-    - 개인 프로젝트
-- FAQ
+- [포트폴리오](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
+    - [Kaggle](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4#kaggle)
+    - [공모전](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4#%EA%B3%B5%EB%AA%A8%EC%A0%84)
+    - [블로그](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4#%EB%B8%94%EB%A1%9C%EA%B7%B8)
+    - [개인 프로젝트](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4#%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [FAQ](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/FAQ)
 - 데이터 관련 행사
 - 데이터 관련 그룹
