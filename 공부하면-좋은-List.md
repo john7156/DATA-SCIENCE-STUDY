@@ -39,7 +39,7 @@
 - 저는 [점프 투 파이썬](https://wikidocs.net/book/1), 최성철 교수님의 [데이터 과학을 위한 Python 입문](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)를 통해 파이썬 기초를 익혔습니다
 - 또한 데이터 분석에서 자주 사용하는 Numpy, Pandas를 추가적으로 학습했고 [numpy_exercises](https://github.com/rougier/numpy-100), [pandas_exercises](https://github.com/guipsamora/pandas_exercises)를 풀었습니다
 
-## 머신러닝/딥러닝 기초
+## 머신러닝 딥러닝 기초
 - 머신러닝/딥러닝에 대한 지식은 반드시 꼭!
 - Andrew ng님의 Coursera [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - 김성훈 교수님의 [모두를 위한 딥러닝](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
