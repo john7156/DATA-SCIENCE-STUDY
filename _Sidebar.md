@@ -14,7 +14,7 @@
     - [Cloud Service](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-List#cloud-service)
     - [선형대수](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-List#%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98)
 - 심화 학습
-    - 컴퓨터 비전
+    - [컴퓨터 비전](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%B9%84%EC%A0%84)
     - 자연어 처리
     - 강화 학습 
 - 논문
