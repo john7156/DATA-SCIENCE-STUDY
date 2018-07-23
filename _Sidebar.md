@@ -28,3 +28,4 @@
 - [FAQ](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/FAQ)
 - [데이터 관련 행사](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EB%A0%A8-%ED%96%89%EC%82%AC)
 - [데이터 관련 그룹](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EB%A0%A8-%EA%B7%B8%EB%A3%B9)
+- [데이터 관련 블로그 모음]
