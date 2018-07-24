@@ -16,7 +16,7 @@
 - 심화 학습
     - [컴퓨터 비전](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%B9%84%EC%A0%84)
     - 자연어 처리
-    - 강화 학습 
+    - [강화 학습](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B0%95%ED%99%94-%ED%95%99%EC%8A%B5)
 - 논문
     - 논문 읽기
     - 논문 구현하기
