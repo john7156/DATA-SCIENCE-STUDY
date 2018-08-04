@@ -15,7 +15,7 @@
     - [선형대수](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-List#%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98)
 - 심화 학습
     - [컴퓨터 비전](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%B9%84%EC%A0%84)
-    - 자연어 처리
+    - [자연어 처리](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
     - [강화 학습](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B0%95%ED%99%94-%ED%95%99%EC%8A%B5)
 - 논문
     - 논문 읽기
