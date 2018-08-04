@@ -64,7 +64,9 @@
 
 
 ## 선형대수
-- 선형대수는 벡터공간을 공부하는 학문입니다. 우리가 보고 느끼는 공간은 기본적으로 3차원이지만 머신러닝/딥러닝에서 나오는 문제들은 모두 4차원 이상의 고차원 문제를 다룹니다. 이런 문제를 쉽게 이해할 때 도움주는 것이 선형대수입니다
+- 선형대수는 벡터공간을 공부하는 학문입니다
+- 우리가 보고 느끼는 공간은 기본적으로 3차원이지만 머신러닝/딥러닝에서 나오는 문제들은 모두 4차원 이상의 고차원 문제를 다룹니다 
+- 이런 문제를 쉽게 이해할 때 도움주는 것이 선형대수입니다!
 - 이상화 교수님의 [선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
 - [칸아카데미 선형대수 강의(한글자막)](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
 - 임성빈님의 [Matrix calculus](https://www.slideshare.net/ssuser7e10e4/matrix-calculus)
