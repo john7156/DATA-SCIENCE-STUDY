@@ -10,6 +10,7 @@
 - 개발된 코드의 History를 관리
 - 협업을 위한 코드 공유 및 Review 수행을 위해 사용합니다
 - History를 관리하기 때문에 문제가 생길 경우 Rollback 가능합니다
+- Git 호스팅 업체는 [Github](https://github.com/), [Bitbucket](https://bitbucket.org/), [GitLab](https://gitlab.com/) 등이 있습니다
 
 ### Github
 - Git 소스 저장소
