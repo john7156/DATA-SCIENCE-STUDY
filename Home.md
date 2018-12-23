@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/Team-Neighborhood//I-want-to-study-Data-Science.svg)](http://hits.dwyl.io/Team-Neighborhood//I-want-to-study-Data-Science)
+
 I want to study Data Science Wiki입니다  
 (현재 미완성 문서입니다)
 
