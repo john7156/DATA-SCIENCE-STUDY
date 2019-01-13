@@ -30,4 +30,4 @@
 - [데이터 관련 행사](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EB%A0%A8-%ED%96%89%EC%82%AC)
 - [데이터 관련 그룹](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EB%A0%A8-%EA%B7%B8%EB%A3%B9)
 - [각종 후기 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B0%81%EC%A2%85-%ED%9B%84%EA%B8%B0-%EB%AA%A8%EC%9D%8C)
-- 데이터 관련 블로그 모음
+- [데이터 관련 블로그 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%B8%94%EB%A1%9C%EA%B7%B8)
