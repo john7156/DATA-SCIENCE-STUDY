@@ -17,6 +17,7 @@
     - [컴퓨터 비전](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%B9%84%EC%A0%84)
     - [자연어 처리](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
     - [추천 시스템](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C)
+    - [시계열 분석](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D)
     - [강화 학습](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B0%95%ED%99%94-%ED%95%99%EC%8A%B5)
 - 논문
     - 논문 읽기
