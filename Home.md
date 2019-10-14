@@ -9,7 +9,8 @@ I want to study Data Science Wiki입니다
 
 문서를 작성할 때, 주관이 들어가 있을 수 있습니다. 단, 주관성을 최대한 배제하며 다양한 견해를 작성해보려고 합니다
 
-이 Wiki는 아래와 같은 주제를 다룹니다(원하시는 내용이 있으시면 Issues에 추가하시거나 메일로 연락주세요 /ㅁ/)
+이 Wiki는 아래와 같은 주제를 다룹니다
+(원하시는 내용이 있으시면 Issues에 추가하시거나 메일로 연락주세요 /ㅁ/)
 
 - [요새 딥러닝의 사례](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%9A%94%EC%83%88-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%82%AC%EB%A1%80)
 - [데이터 분야의 직군 소개(Overview)](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%95%BC%EC%9D%98-%EC%A7%81%EA%B5%B0-%EC%86%8C%EA%B0%9C)
