@@ -36,4 +36,4 @@
 - [데이터 관련 블로그 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%B8%94%EB%A1%9C%EA%B7%B8)
 ---
 - 데이터 팀 문화
-- 성장
+- [성장](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%84%B1%EC%9E%A5)
