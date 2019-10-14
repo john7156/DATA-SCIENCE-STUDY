@@ -21,7 +21,7 @@
     - [강화 학습](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B0%95%ED%99%94-%ED%95%99%EC%8A%B5)
 - 논문
     - [논문 읽기](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0)
-    - [논문 구현하기]
+    - [논문 구현하기](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%85%BC%EB%AC%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [포트폴리오](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
     - [Kaggle](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4#kaggle)
     - [공모전](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4#%EA%B3%B5%EB%AA%A8%EC%A0%84)
