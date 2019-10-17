@@ -14,4 +14,4 @@
 
 ### Kubeflow
 - [Kubeflow 소개와 활용법](https://youtu.be/szygR7G3ZY8) 영상 : 두다지에서 어떻게 활용하고 있는지 발표해주신 자료
-- [딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a)
+- [딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a) : 당근마켓에서 Kubeflow pipeline을 활용한 사례 글
