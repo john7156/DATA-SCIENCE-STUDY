@@ -19,6 +19,7 @@
     - [추천 시스템](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C)
     - [시계열 분석](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D)
     - [강화 학습](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EA%B0%95%ED%99%94-%ED%95%99%EC%8A%B5)
+    - [MLOps](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/MLOps)
 - 논문
     - [논문 읽기](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0)
     - [논문 구현하기](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%85%BC%EB%AC%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
