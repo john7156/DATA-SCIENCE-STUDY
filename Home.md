@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/Team-Neighborhood//I-want-to-study-Data-Science.svg)](http://hits.dwyl.io/Team-Neighborhood//I-want-to-study-Data-Science)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTeam-Neighborhood%2FI-want-to-study-Data-Science%2F)](https://hits.seeyoufarm.com)
 
 I want to study Data Science Wiki입니다  
 (현재 미완성 문서입니다)
