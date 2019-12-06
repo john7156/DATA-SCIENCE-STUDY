@@ -12,7 +12,7 @@
 	- 위 강의 정리 글 : [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
 - [Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/) : UC Berkeley 수업 자료(동영상은 없음)
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
-- [THE 7 QUESTIONS YOU NEED TO ASK TO OPERATE DEEP LEARNING INFRASTRUCTURE AT SCALE](https://jameskle.com/writes/deep-learning-infrastructure-tooling)
+- [The 7 questions you need to ask to operate deep learning infrastructure at scale](https://jameskle.com/writes/deep-learning-infrastructure-tooling)
 
 ### Kubeflow
 - [Kubeflow 소개와 활용법](https://youtu.be/szygR7G3ZY8) 영상 : 두다지에서 어떻게 활용하고 있는지 발표해주신 자료
