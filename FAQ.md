@@ -22,4 +22,4 @@
 	- A) 제가 대학생 동아리에서 발표한 [성장을 좋아하는 사람이, 성장하고 싶은 사람에게
 ](https://www.slideshare.net/zzsza/ss-173453051) 자료를 참고하시면 좋을 것 같습니다. 방향성에 대한 제 생각을 작성했습니다
 
-- 조기문님이 답변하신 [[Q&A WITH GIMUN](https://www.notion.so/Q-A-WITH-GIMUN-015c0873144045a0a82a65b9fee967cc)](https://www.notion.so/somisomsomsom/Q-A-WITH-GIMUN-015c0873144045a0a82a65b9fee967cc) : 딥러닝 개발자에게 답변해주는 내용에 대해 작성된 글입니다
+- 조기문님이 답변하신 [Q&A WITH GIMUN](https://www.notion.so/Q-A-WITH-GIMUN-015c0873144045a0a82a65b9fee967cc) : 딥러닝 개발자에게 답변해주는 내용에 대해 작성된 글도 읽어보시는 것을 추천드립니다!
