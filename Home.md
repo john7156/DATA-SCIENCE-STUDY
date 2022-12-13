@@ -1,7 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTeam-Neighborhood%2FI-want-to-study-Data-Science%2F)](https://hits.seeyoufarm.com)
 
 I want to study Data Science Wiki입니다  
-(현재 미완성 문서입니다)
 
 이 문서의 목적은 데이터 분야를 공부하고 싶은 분들에게 "방향성"을 주는 것입니다.   
 방향성에 초점을 맞추기 때문에 모든 내용을 깊게 다루진 않지만, 좋은 참고 자료를 제공합니다
@@ -10,8 +9,7 @@ I want to study Data Science Wiki입니다
 문서에 주관이 들어가 있을 수 있습니다. 최대한 주관성을 배제해 글을 작성하려 합니다
 
 이 Wiki는 아래와 같은 주제를 다룹니다
-
-(원하시는 내용이 있으시면 Issues에 추가하시거나 메일로 연락주세요 /ㅁ/)
+- 원하시는 내용이 있으시면 Issues에 추가해주세요 :)
 
 - [요새 딥러닝의 사례](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%9A%94%EC%83%88-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%82%AC%EB%A1%80)
 - [데이터 분야의 직군 소개(Overview)](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%95%BC%EC%9D%98-%EC%A7%81%EA%B5%B0-%EC%86%8C%EA%B0%9C)
