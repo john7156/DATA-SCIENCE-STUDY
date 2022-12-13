@@ -41,7 +41,6 @@ I want to study Data Science Wiki입니다
     - [블로그](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4#%EB%B8%94%EB%A1%9C%EA%B7%B8)
     - [개인 프로젝트](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4#%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [각종 Data](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0)
-- [취업](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EC%B7%A8%EC%97%85)
 - [FAQ](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/FAQ)
 - [데이터 관련 행사](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EB%A0%A8-%ED%96%89%EC%82%AC)
 - [데이터 관련 그룹](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EB%A0%A8-%EA%B7%B8%EB%A3%B9)
